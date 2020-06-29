@@ -1,4 +1,4 @@
-# Amazon QLDB Node.js Driver
+# Amazon QLDB Node.js Driver 
 
 [![NPM Version](https://img.shields.io/badge/npm-v1.0.0-green)](https://www.npmjs.com/package/amazon-qldb-driver-nodejs)  [![Documentation](https://img.shields.io/badge/docs-api-green.svg)](https://docs.aws.amazon.com/qldb/latest/developerguide/getting-started.nodejs.html)
 
